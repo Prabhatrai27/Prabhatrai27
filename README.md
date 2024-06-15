@@ -7,7 +7,7 @@ I am a Tier 1 SOC analyst with a profound interest in technology and a dedicatio
 
 Detail-oriented and proactive SOC Tier 1 Analyst with hands-on experience in real-time security monitoring, incident detection, and initial response analysis. Proficient in using advanced cybersecurity tools and technologies, including Splunk and Tenable, to safeguard organizational assets.
 
-## Blog for Cyber Security concepts 
+## Some Network concepts 
 
 | Concepts                                      | Article                    |
 |-----------------------------------------------|----------------------------|
@@ -21,6 +21,13 @@ Detail-oriented and proactive SOC Tier 1 Analyst with hands-on experience in rea
 | SSH protocol                                  | Article |
 | SMTP,POP and IMAP protocol                    | Article |
 | Phising Analysis                              | Article |
+
+## Some CyberSecurity concepts 
+
+| Concepts                                      | Article                    |
+|-----------------------------------------------|----------------------------|
+| Phising Analysis                              | Article |
+| Open Source Threat Intelligence               | Article |
 
 ## Tools
 

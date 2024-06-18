@@ -28,6 +28,7 @@ Detail-oriented and proactive SOC Tier 1 Analyst with hands-on experience in rea
 |-----------------------------------------------|----------------------------|
 | Phising Analysis                              | Article |
 | Open Source Threat Intelligence               | Article |
+| Cookies- Can it be a security concern?        | Article |
 
 ## Tools
 
